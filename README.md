@@ -1,2 +1,2 @@
-# Hackerrank-
-30 days code challenge - day 1
+# Hackerrank 30 days Challenge
+Efficient solutions implemented in java 
